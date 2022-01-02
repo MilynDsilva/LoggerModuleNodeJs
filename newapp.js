@@ -1,6 +1,6 @@
 //const newlogger = require('./newlogger'); //same folder
 const EventEmitter = require('events');
-const emitter = new EventEmitter();
+// const emitter = new EventEmitter();
 
 
 
